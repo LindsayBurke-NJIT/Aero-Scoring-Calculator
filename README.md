@@ -1,6 +1,6 @@
 <h1>Welcome to the Flylander's SAE Aero Design Scoring Calculator</h1>
 This is a calculator created for the NJIT Flylanders SAE Aero Team.
-Its purpose is to calculate the score earned during a competition based on 2023/2024 scoring rules
+Its purpose is to calculate the score earned during a competition based on 2023/2024 scoring rules.
 
 <h1>To run the application on Windows (no Python interpreter needed):</h1>
 
