@@ -6,7 +6,7 @@ Its purpose is to calculate the score earned during a competition based on 2023/
 
 1) Download the zip file by viewing it raw and unzip it.
 3) Go to the dist folder and find the scoringCalculator application.
-4) Drag the application file into the taskbar to pin it for easy access.
+4) Drag the application file into the taskbar or desktop to pin it for easy access.
 5) Run the executable.
 
 <h1>To run the application on any other OS:</h1>
